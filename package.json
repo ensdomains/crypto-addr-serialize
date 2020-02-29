@@ -1,0 +1,22 @@
+{
+  "name": "crypto-addr-serialize",
+  "version": "0.1.0",
+  "description": "Light weight package for serializing different crypto addresses",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jay-dee7/crypto-addr-serialize.git"
+  },
+  "author": "Jasdeep Singh <jasdeepsingh.uppal@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jay-dee7/crypto-addr-serialize/issues"
+  },
+  "homepage": "https://github.com/jay-dee7/crypto-addr-serialize#readme",
+  "dependencies": {
+    "crypto-addr-serialize": "^0.1.0"
+  }
+}
