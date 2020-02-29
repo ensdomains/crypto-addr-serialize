@@ -1,6 +1,6 @@
 {
   "name": "crypto-codec",
-  "version": "0.2.26",
+  "version": "0.2.34",
   "description": "Light weight package for serializing different crypto addresses",
   "main": "./lib/index.js",
   "scripts": {

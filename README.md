@@ -1,4 +1,4 @@
-# crypto-addr-serialize is a minimal npm package for encoding and decoding different cyrpto addresses
+# crypto-codec is a minimal npm package for encoding and decoding different cyrpto addresses
 
 # all of the work is derived from 
 
