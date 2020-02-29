@@ -1,6 +1,6 @@
 {
-  "name": "crypto-codec",
-  "version": "0.2.34",
+  "name": "crypto-addr-codec",
+  "version": "0.1.1",
   "description": "Light weight package for serializing different crypto addresses",
   "main": "./lib/index.js",
   "scripts": {
@@ -20,10 +20,13 @@
     "@babel/runtime": "^7.8.4",
     "assert": "^2.0.0",
     "base-x": "^3.0.8",
+    "base32.js": "^0.1.0",
     "bigi": "^1.4.2",
     "bs58": "^4.0.1",
-    "create-hash": "^1.2.0",
-    "eosjs-ecc": "^4.0.7",
+    "crc": "^3.8.0",
+    "inherits": "latest",
+    "lodash": "^4.17.15",
+    "ripemd160": "latest",
     "sha.js": "^2.4.11",
     "sha3": "^2.1.1"
   }
