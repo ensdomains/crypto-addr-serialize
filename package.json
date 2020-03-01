@@ -27,7 +27,7 @@
     "inherits": "latest",
     "lodash": "^4.17.15",
     "ripemd160": "latest",
-    "sha.js": "^2.4.11",
+    "sha.js": "inspireme6/sha256js",
     "sha3": "^2.1.1"
   }
 }
