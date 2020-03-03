@@ -1,6 +1,6 @@
 {
   "name": "crypto-addr-codec",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "Light weight package for serializing different crypto addresses",
   "main": "./lib/index.js",
   "scripts": {
