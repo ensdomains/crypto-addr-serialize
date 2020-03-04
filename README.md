@@ -22,7 +22,7 @@
     [MIT License](https://github.com/rsksmart/rskjs-util/blob/d494ff1c586db6e5d395a18c12ac274e9c616a13/LICENSE)
 * [sha.js](https://www.npmjs.com/package/sha.js)
 ` allows reuse and modifications under the MIT license present here`
-    [Apache License 2.0](https://github.com/crypto-browserify/sha.js/blob/3851b4667b548a1c5e82dd8d8406bc871d417088/LICENSE)
+    [MIT License](https://github.com/crypto-browserify/sha.js/blob/3851b4667b548a1c5e82dd8d8406bc871d417088/LICENSE)
 * [stellar-base](https://www.npmjs.com/package/stellar-base)
 ` allows reuse and modifications under the MIT license present here`
     [Apache License 2.0](https://github.com/stellar/js-stellar-base/blob/4ae811643e535be70d5250aa807fd107f2346eb6/LICENSE)
