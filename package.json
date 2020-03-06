@@ -1,6 +1,6 @@
 {
   "name": "crypto-addr-codec",
-  "version": "0.1.3",
+  "version": "0.1.5",
   "description": "Light weight package for serializing different crypto addresses",
   "main": "./lib/index.js",
   "scripts": {
@@ -26,7 +26,7 @@
     "crc": "^3.8.0",
     "inherits": "latest",
     "lodash": "^4.17.15",
-    "ripemd160": "latest",
+    "ripemd160-min": "0.0.6",
     "sha3": "^2.1.1"
   }
 }
