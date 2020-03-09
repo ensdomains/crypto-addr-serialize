@@ -22,7 +22,6 @@
   "license": "MIT",
   "dependencies": {
     "base-x": "^3.0.8",
-    "base32.js": "^0.1.0",
     "big-integer": "1.6.36",
     "blakejs": "^1.1.0",
     "bs58": "^4.0.1",
