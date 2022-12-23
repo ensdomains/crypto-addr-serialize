@@ -4,7 +4,7 @@
   "description": "Light weight package for serializing different crypto addresses",
   "source": "lib/index.js",
   "main": "dist/index.js",
-  "module": "dist/index.module.js",
+  "module": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "microbundle",
